@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>UNIT3D Documentation</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- Disable Jekyll processing if you have static files named with underscores -->
+  <meta name="jekyll-disable" content="true">
+  <style>
+    body {
+      font-family: system-ui, sans-serif;
+      line-height: 1.6;
+      margin: 2rem auto;
+      max-width: 42rem;
+      padding: 0 1rem;
+    }
+    h1 { margin-top: 2rem; }
+    a { color: #0366d6; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+  </style>
+</head>
+<body>
+  <h1>UNIT3D Documentation</h1>
+  <p>Welcome to the UNIT3D docs site. Use the links below to navigate:</p>
+  <ul>
+    <li><a href="updating-unit3d-version.html">Updating UNIT3D Version</a></li>
+    <li><a href="creating-backups.html">Creating Backups</a></li>
+    <li><a href="maintenance-mode.html">Entering Maintenance Mode</a></li>
+    <li><a href="troubleshooting.html">Troubleshooting & Clean-Up</a></li>
+    <!-- Add or remove entries as needed -->
+  </ul>
+  <footer>
+    <p>© 2025 UNIT3D • Hosted on GitHub Pages</p>
+  </footer>
+</body>
+</html>
